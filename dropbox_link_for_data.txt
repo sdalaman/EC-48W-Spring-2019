@@ -1,5 +1,0 @@
-Data upload limit for Github was 25MB. 
-However our data was near 500MB.
-So we uploaded the data to a dropbox folder and shared the link to dropbox file:
-Link: https://www.dropbox.com/s/t67zsa44iebunwa/kaggle_loan_data.csv?dl=0
-Data: kaggle_loan_data.csv
