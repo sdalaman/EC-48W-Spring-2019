@@ -1,8 +1,8 @@
 # EC-48W
-BOĞAZİÇİ UNIVERSITY, İSTANBUL -  ECONOMY DEPARTMENT LECTURE
+Department of Economics, Boğaziçi University
 
 Lecturer : Şaban Dalaman, Msc.
 
-ML with Finance Applications using Python 
+ML with Finance Applications using Python
 
-Student Repo for paper presentations  and term projects
+Students Repo for term projects
